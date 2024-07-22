@@ -2,7 +2,5 @@
 function functionName(){
 	alert (arguments.callee.name);
 }
-	functionna();
-	//function AccioJob(){
-		//alert (argument.callee.name);
-//	}
+	functionna()
+	
